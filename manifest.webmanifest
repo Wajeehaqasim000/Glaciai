@@ -1,29 +1,13 @@
 {
-  "name": "GLACIAI – Advanced Glacier Collapse Simulator",
-  "short_name": "GLACIAI",
-  "description": "A futuristic glacier collapse & global impact simulator (2000–3000).",
-  "start_url": "./index.html",
-  "scope": "./",
+  "background_color": "#385592",
+  "dir": "ltr",
   "display": "standalone",
-  "background_color": "#0a0a12",
-  "theme_color": "#0a0a12",
-  "orientation": "portrait",
-  "icons": [
-    {
-      "src": "icons/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icons/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-      "src": "icons/maskable-icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
-    }
-  ]
+  "name": "glaciai",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "glaciai",
+  "start_url": "/",
+  "theme_color": "#4e85b6",
+  "id": "glaciai",
+  "description": "This Progressive Web App delivers a seamless, app like experience directly through the browser. Designed with speed, clarity, and efficiency at its core, it loads instantly, works offline, and adapts to any device without requiring installation from an app store. Featuring a clean interface, responsive design, and optimized performance, the app provides a smooth, lightweight workflow that feels indistinguishable from a native mobile app. Built with modern web technologies service workers, caching strategies, and manifest integration it ensures fast navigation, reliable access, and secure, stable functionality across all platforms."
 }
